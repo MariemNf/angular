@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Explication code 
+
+Exercice 1 : changement de couleur par un change de saisie
+
+##
+Exercice 2 : Carte de visite
+
+##
+Exercice 3 : faire liaison entre père et fils + changement de couleur de div de parent par la saisie 
+de couleur dans le fils
